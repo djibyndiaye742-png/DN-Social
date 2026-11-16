@@ -1,0 +1,27 @@
+{
+"expo": {
+"name": "DN Social",
+"slug": "dn-social",
+"version": "1.0.0",
+"orientation": "portrait",
+"userInterfaceStyle": "automatic",
+"splash": {
+"resizeMode": "contain",
+"backgroundColor": "#FFFFFF"
+},
+"ios": {
+"supportsTablet": true,
+"bundleIdentifier": "com.dn.social"
+},
+"android": {
+"package": "com.dn.social",
+"versionCode": 1,
+"adaptiveIcon": {
+"backgroundColor": "#FFFFFF"
+}
+},
+"plugins": []
+}
+}
+
+
